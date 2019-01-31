@@ -1,0 +1,28 @@
+{
+  "name": "basic-algorithmic-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:sol": "mocha solutions/**/*.test.js",
+    "test:ps": "mocha problems/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raychanks/basic-algorithmic-problems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raychanks/basic-algorithmic-problems/issues"
+  },
+  "homepage": "https://github.com/raychanks/basic-algorithmic-problems#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.20"
+  }
+}
